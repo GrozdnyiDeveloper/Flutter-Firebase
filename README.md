@@ -1,3 +1,3 @@
-# firebase_app
+# Firebase
 
-A new Flutter project.
+В данном проекте представлено небольшое мобильное приложение, написанное с помощью языков flutter/dart и использующее возможности Firebase (Firebase, Firebase Storage и Authorization). 
